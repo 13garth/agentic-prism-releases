@@ -1,3 +1,7 @@
+## [↓ Downloads & release notes](https://github.com/13garth/agentic-spark-releases/releases)
+
+**Replacement build in progress:** Agentic Spark installers are not published yet. The historical Agent Developer Test.13 installer has a reported installation issue.
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://thedevelopermarket.com/brand/agentic-team-ui/prism-dark.svg">
   <img src="https://thedevelopermarket.com/brand/agentic-team-ui/prism-light.svg" width="88" alt="Agentic Spark">
